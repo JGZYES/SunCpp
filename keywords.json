@@ -1,0 +1,45 @@
+{
+  "c": [
+    "auto", "break", "case", "char", "const", "continue", "default", "do",
+    "double", "else", "enum", "extern", "float", "for", "goto", "if",
+    "int", "long", "register", "return", "short", "signed", "sizeof", "static",
+    "struct", "switch", "typedef", "union", "unsigned", "void", "volatile", "while",
+    "printf", "scanf", "fprintf", "fscanf", "sprintf", "sscanf",
+    "fopen", "fclose", "fread", "fwrite", "fseek", "ftell", "rewind",
+    "malloc", "calloc", "realloc", "free",
+    "strlen", "strcpy", "strcat", "strcmp", "strchr", "strstr",
+    "memset", "memcpy", "memmove", "memcmp",
+    "atoi", "atol", "atof", "itoa", "ltoa", "ftoa",
+    "abs", "labs", "fabs", "pow", "sqrt", "sin", "cos", "tan", "log", "log10"
+  ],
+  "cpp": [
+    "auto", "break", "case", "char", "const", "continue", "default", "do",
+    "double", "else", "enum", "extern", "float", "for", "goto", "if",
+    "int", "long", "register", "return", "short", "signed", "sizeof", "static",
+    "struct", "switch", "typedef", "union", "unsigned", "void", "volatile", "while",
+    "bool", "catch", "class", "const_cast", "delete", "dynamic_cast",
+    "explicit", "export", "false", "friend", "inline", "mutable", "namespace",
+    "new", "operator", "private", "protected", "public", "reinterpret_cast",
+    "static_cast", "template", "this", "throw", "true", "try", "typeid",
+    "typename", "using", "virtual", "wchar_t", "std", "cout", "cin", "cerr", "clog",
+    "endl", "string", "vector", "list", "map", "set", "queue", "stack",
+    "pair", "make_pair", "sort", "find", "count", "insert", "erase", "clear",
+    "size", "empty", "begin", "end", "rbegin", "rend", "front", "back",
+    "push_back", "push_front", "pop_back", "pop_front", "at", "operator[]",
+    "ifstream", "ofstream", "fstream", "ios", "stringstream", "istringstream", "ostringstream"
+  ],
+  "csharp": [
+    "abstract", "as", "base", "bool", "break", "byte", "case", "catch",
+    "char", "checked", "class", "const", "continue", "decimal", "default",
+    "delegate", "do", "double", "else", "enum", "event", "explicit",
+    "extern", "false", "finally", "fixed", "float", "for", "foreach",
+    "goto", "if", "implicit", "in", "int", "interface", "internal",
+    "is", "lock", "long", "namespace", "new", "null", "object", "operator",
+    "out", "override", "params", "private", "protected", "public", "readonly",
+    "ref", "return", "sbyte", "sealed", "short", "sizeof", "stackalloc", "static",
+    "string", "struct", "switch", "this", "throw", "true", "try", "typeof",
+    "uint", "ulong", "unchecked", "unsafe", "ushort", "using", "virtual",
+    "void", "volatile", "while", "Console", "WriteLine", "Write", "ReadLine", "Read",
+    "List", "Dictionary", "HashSet", "Queue", "Stack", "StringBuilder"
+  ]
+}

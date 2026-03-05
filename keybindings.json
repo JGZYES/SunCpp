@@ -1,0 +1,90 @@
+{
+  "new_file": {
+    "name": "新建文件",
+    "shortcut": "Ctrl+N"
+  },
+  "open_file": {
+    "name": "打开文件",
+    "shortcut": "Ctrl+O"
+  },
+  "save_file": {
+    "name": "保存文件",
+    "shortcut": "Ctrl+S"
+  },
+  "save_as": {
+    "name": "另存为",
+    "shortcut": "Ctrl+Shift+S"
+  },
+  "close_tab": {
+    "name": "关闭标签页",
+    "shortcut": "Ctrl+W"
+  },
+  "quit": {
+    "name": "退出",
+    "shortcut": "Ctrl+Q"
+  },
+  "undo": {
+    "name": "撤销",
+    "shortcut": "Ctrl+Z"
+  },
+  "redo": {
+    "name": "重做",
+    "shortcut": "Ctrl+Y"
+  },
+  "cut": {
+    "name": "剪切",
+    "shortcut": "Ctrl+X"
+  },
+  "copy": {
+    "name": "复制",
+    "shortcut": "Ctrl+C"
+  },
+  "paste": {
+    "name": "粘贴",
+    "shortcut": "Ctrl+V"
+  },
+  "select_all": {
+    "name": "全选",
+    "shortcut": "Ctrl+A"
+  },
+  "find": {
+    "name": "查找",
+    "shortcut": "Ctrl+F"
+  },
+  "replace": {
+    "name": "替换",
+    "shortcut": "Ctrl+H"
+  },
+  "goto_line": {
+    "name": "跳转到行",
+    "shortcut": "Ctrl+G"
+  },
+  "comment_line": {
+    "name": "注释/取消注释",
+    "shortcut": "Ctrl+/"
+  },
+  "fold_region": {
+    "name": "折叠代码",
+    "shortcut": "Ctrl+Shift+["
+  },
+  "unfold_region": {
+    "name": "展开代码",
+    "shortcut": "Ctrl+Shift+]"
+  },
+  "unfold_all": {
+    "name": "展开所有",
+    "shortcut": "Ctrl+K Ctrl+J"
+  },
+  "compile": {
+    "name": "编译",
+    "shortcut": "F5"
+  },
+  "run": {
+    "name": "运行",
+    "shortcut": "F6"
+  },
+  "compile_run": {
+    "name": "编译并运行",
+    "shortcut": "F7"
+  }
+}
